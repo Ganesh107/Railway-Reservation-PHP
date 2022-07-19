@@ -1,0 +1,47 @@
+.railwaylogo
+{
+    margin-top: 17px;
+    float: left;
+    height: 150px;
+    width: 163px;
+    margin-left: 79px;
+    border-radius: 50%;
+}
+.logopart
+{
+    float: left;
+}
+.heading
+{
+    margin-top: 56px;
+    float: left;
+    margin-left: 283px;
+}
+.log
+{
+    margin-left: 10.75in;
+    float: left;
+    margin-top: -131px;
+}
+.headingstyle
+{
+    font-weight: bold;
+    font-size: 42px;
+}
+.headpart
+{
+    background: antiquewhite;
+    height: 180px;
+}
+.para
+{
+    font-size: 21px;
+}
+.test
+{
+    margin-left: 7px;
+}
+.test1
+{
+    margin-left: 9px;
+}

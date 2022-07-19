@@ -1,0 +1,18 @@
+.tablebody
+{
+	padding-top: 50px;
+}
+.book
+{
+	cursor: pointer;
+}
+.logout
+{
+	margin-left: 13in;
+    margin-top: 19px;
+    cursor: pointer;
+}
+body
+{
+	background: lightgray;
+}

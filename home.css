@@ -1,0 +1,62 @@
+body
+{
+  background-image:url('irctc.jpg');
+  background-repeat:no-repeat;
+  background-size:cover;
+  height: 900px;
+
+}
+.logo
+{
+  height: 146px;
+  width: 156px;
+  float: left;
+  margin-top: 83px;
+  margin-left: 120px;
+  border-radius: 50%;
+  }
+.logopart
+{
+    height: 100px;
+    width: 100px;
+    margin-left: -89px;
+    float: right;
+}
+.heading
+{
+  color:rgb(255, 255, 255);
+  margin-left: 6in;
+}
+.content
+{
+  max-width:100%;
+  max-height: 100%
+}
+.starting
+{
+  margin-left: 522px;
+  color: white;
+  font-size: 20px;
+}
+.datefield
+{
+  margin-left: 530px;
+  color: white;
+  font-size: 20px;
+}
+.buttons
+{
+  
+   margin-left: 647px;
+  margin-top: 5px;
+}
+.head
+{
+  color: black;
+  margin-left: 511px;
+  padding-top: 86px;
+}
+.pos
+{
+  margin-left: 530px;
+}

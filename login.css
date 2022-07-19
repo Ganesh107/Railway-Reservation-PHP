@@ -1,0 +1,89 @@
+body
+	{
+		background: url('train.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+	.logo
+	{
+		height: 146px;
+	    width: 156px;
+	    float: left;
+	    margin-top: 83px;
+	    margin-left: -28px;
+	    border-radius: 50%;
+	}
+	.logopart
+	{
+		height: 100px;
+	    width: 100px;
+	    margin-left: -89px;
+	    float: left;
+	}
+	.formpart
+	{
+		height: 200px;
+		width: 200px;
+		float: left;
+	}
+	.loginform
+	{
+		float: left;
+	    padding-top: 219px;
+	    margin-left: -105px;
+	}
+	.loginhead
+	{
+		font-size: 38px;
+    	color: black;
+	}
+	#username
+	{
+		width: 247px;
+	    height: 28px;
+	    border-color: black;
+	    font-size: medium;
+	    border-radius: 5px;
+	    margin: 2px;
+	    background-color: white;
+	    color: black;
+	    border: 2px solid;
+	}
+	#password
+	{
+		width: 247px;
+	    height: 28px;
+	    border-color: black;
+	    font-size: medium;
+	    border-radius: 5px;
+	    margin: 2px;
+	    background-color: white;
+	    color: black;
+	    border: 2px solid;
+	}
+	.loginbutton
+	{
+		margin-top: 3px;
+	    width: 57px;
+	    height: 24px;
+	    font-size: medium;
+	    cursor: pointer;
+	    border-color: black;
+	    border-radius: 5px;
+	    margin-left: 3px;
+	}
+	.registerbutton
+	{
+		margin-top: 3px;
+	    width: 67px;
+	    height: 24px;
+	    font-size: medium;
+	    cursor: pointer;
+	    border-color: black;
+	    border-radius: 5px;
+	}
+	::placeholder
+	{
+		opacity: 1;
+		color: grey;
+	}
